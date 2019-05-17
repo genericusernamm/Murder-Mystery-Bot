@@ -225,7 +225,7 @@ if (!verifyt[verifyid]) verifyt[verifyid] = {
 };
 let verifyData = verifyt[verifyid]
 */
-bot.login(config.tokens.bot)
+bot.login(config.token)
 
 function postapi() {
   console.log(`[SHARD ${bot.shard.id}] POST API FUNCTION`)

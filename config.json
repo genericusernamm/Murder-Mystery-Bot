@@ -1,16 +1,16 @@
 {
-	"token": "YOUR BOT TOKEN",
-	"ownerid": "126119057232625664",
-	"playing": "%prefix%help - Murdering people... [%shard.count%]",
+	"token": "NTY4NjQ5MjE1NDYzNjUzNDQ2.XN6f0A.CAT7fHyC-Slz1D_vMimWKleMLLY",
+	"ownerid": "3703918968302469124",
+	"playing": "%prefix%help - Murdering people... in the dark!",
 	"prefix": "mm!",
 	"botlog_channelid": "350984977371889664",
 	"blacklist_message": "Something is wrong! You have been Blacklisted! OR Your guild has been Blacklisted, If you have any questions or want to be unblacklisted, Type mm!serverinvite to get the invite and appeal!",
 	"dbltoken": "YOUR DBL TOKEN",
-	"admin_ids": ["126119057232625664", "321363278188249090", "281397352177074177"],
-	"guildid": "319583713262436354",
+	"admin_ids": ["370391896830246912", "474546506410754048", "406278439348338688"],
+	"guildid": "568652057389563904",
 	"adminroleid": "322168622501855232",
 	"bugroleid": "321430711473012736",
-	"gamelogs": "351461628635774978",
-	"enabledblpost": 1,
-	"sharding": 1
+	"gamelogs": "578912744644935690",
+	"enabledblpost": 0,
+	"sharding": 0
 }
